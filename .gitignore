@@ -1,0 +1,4 @@
+#Dummy Data - SECURED
+.env*
+.env.local 
+.env.production.local 
